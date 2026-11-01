@@ -1,5 +1,13 @@
-# 💫 About Me:
-<br>> Dynamic **Computer Science & Data Science** student specializing in **AI, Machine Learning, and Big Data Architecture**. Passionate about building end-to-end intelligent systems, distributed data pipelines (Medallion architecture), and real-time backend microservices. Driven by a terminal-first workflow, deep low-level understanding, and high-performance engineering.<br><br> - 🚀 **About Me**<br> * 🎓 Pursuing advanced studies in **Data Analysis, AI, and Software Engineering**.<br> * 💻 Tech Stack: **Python, Java, React, FastAPI, Databricks, PyTorch, Docker, & Kubernetes**.<br> * 🛠️ Currently building distributed data pipelines, multi-agent AI systems, and microservices architectures.<br> * ⚡ Open to collaborations on open-source Data/AI engineering tools and full-stack systems.
+# Hi there 👋 I'm **ELmahdi Bahadia**
+
+# **💫 About Me:**
+Dynamic **Computer Science & Data Science** student specializing in **AI, Machine Learning, and Big Data Architecture**. Driven by a terminal-first workflow, deep low-level engineering, and scalable system design.
+
+#### **💡 What I Do**
+* 🛠️ **Architecture:** Building Medallion-structured distributed data pipelines & real-time microservices.
+* 🤖 **AI/ML:** Developing end-to-end intelligent systems and multi-agent AI architectures.
+* 💻 **Tech Stack:** Python | Java | React | FastAPI | Databricks | PyTorch | Docker | Kubernetes
+* 🤝 **Collaborate:** Open to open-source contributions in Data/AI engineering and full-stack systems.
 
 
 ## 🌐 Socials:
